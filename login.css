@@ -1,0 +1,44 @@
+.loin_content{
+  margin-top: 20px;
+  padding: 20px;
+
+
+}
+
+.loin_content h1{
+ color: blue;
+ text-align: center;
+ padding: 10px;
+}
+#from{
+
+    padding-left: 100px;
+    padding-bottom: 400px;
+}
+#table{
+
+
+}
+#table tr{
+  padding: 10px;
+
+
+}
+#table tr td{
+  margin-bottom: 10px;
+  font-size: 25px;
+
+}
+#np{
+  padding: 7px 70px;
+  margin: 5px;
+}
+
+.login{
+   margin-top: 10px;
+  color: red;
+
+font-size: 25px;
+
+padding: 7px;
+}
